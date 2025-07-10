@@ -26,13 +26,52 @@ The project is perfect for learning graph theory, routing logic, and MST computa
  No external libraries needed
  Utilizes standard Java SE libraries: javax.swing, java.awt, java.util
 
-6. Learning Objectives
+5. Learning Objectives
    
 Know graph traversal and edge choice
 Know how Kruskal's algorithm operates with Union-Find
 Get hands-on with Java GUI development
 
 
-8. GitHub Repository
+6. GitHub Repository
    
 GitHub Repo: [ https://github.com/MaryamEjaz713/project-part-]
+
+
+7.Features
+
+- GUI interface (using Java Swing)
+- Add/remove nodes and edges
+- Visualize graph construction and routing
+- Run Kruskal’s algorithm to compute MST
+- Display MST edges and logs in real-time
+- Handles disconnected graphs by forming Minimum Spanning Forest (MSF).
+
+
+
+8.Technologies Used
+
+- Java
+- Swing (GUI)
+- Object-Oriented Programming
+- Graph Structures (Nodes, Edges)
+- Kruskal’s Algorithm.
+
+
+9.Visualization / Demo Instructions
+
+- Nodes are displayed as orange circles with labels.
+- Edges are shown in black by default.
+- When Kruskal’s algorithm runs:
+- Green: edges being checked
+- Red: edges selected in MST
+- Log section shows step-by-step decisions
+- Disconnected graph will show MSF instead of full MST.
+  https://youtu.be/PmFnpMSwFsU?si=dzntfe8KaS_jieia
+
+
+
+
+
+
+
