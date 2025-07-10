@@ -13,18 +13,20 @@ The project is perfect for learning graph theory, routing logic, and MST computa
 2. Import the project into IntelliJ IDEA
 3. Execute the MainApp.java file.
 4. GUI window will be launched:
+   
 Add/remove nodes and edges using buttons.
 Press "Run Kruskal" to mimic MST construction.
 
 4. Dependencies
+   
 No external libraries needed
 Utilizes standard Java SE libraries: javax.swing, java.awt, java.util
 
-5. Learning Objectives (Optional)
+6. Learning Objectives 
 Know graph traversal and edge choice
 Know how Kruskal's algorithm operates with Union-Find
 Get hands-on with Java GUI development
 
 
-6. GitHub Repository 
+7. GitHub Repository 
 GitHub Repo: [ https://github.com/MaryamEjaz713/project-part-]
