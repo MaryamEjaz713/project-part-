@@ -14,13 +14,13 @@ The project is perfect for learning graph theory, routing logic, and MST computa
 3. Execute the MainApp.java file.
 4. GUI window will be launched:
    
-Add/remove nodes and edges using buttons.
-Press "Run Kruskal" to mimic MST construction.
+ Add/remove nodes and edges using buttons.
+ Press "Run Kruskal" to mimic MST construction.
 
 4. Dependencies
    
-No external libraries needed
-Utilizes standard Java SE libraries: javax.swing, java.awt, java.util
+ No external libraries needed
+ Utilizes standard Java SE libraries: javax.swing, java.awt, java.util
 
 6. Learning Objectives 
 Know graph traversal and edge choice
